@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Oswald:700|Yellowtail|Patrick+Hand');
+
+* {
+    font-family: times;
+}
+
+body {
+    background: #fff;
+}
+
+#logo h1 {
+    padding-left: 50px;
+    font-family: 'Yellowtail', cursive;
+    font-size: 2.4em;
+}
