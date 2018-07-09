@@ -133,15 +133,22 @@ aside button {
 }
 
 /* footer content */
+footer section {
+    text-align: center;
+}
+
+footer section img {
+    margin-top: -30px;
+}
+
 footer section hr {
     border-bottom: 1px solid #aaa;
     height: 0;
+    margin-top: 15px;
 }
-  
-  
+
 footer section p{
     padding: 50px 0;
     line-height: 1.5em;
-    text-align: center;
     color: #aaa;
 }
