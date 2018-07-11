@@ -4,7 +4,9 @@
   font-family: times;
 }
 
-
+input {
+  font-family: 'Patrick Hand', cursive;
+}
 
 body {
   background: #fff;
