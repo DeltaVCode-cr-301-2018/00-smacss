@@ -8,3 +8,13 @@ nav li {
   float: left;
   padding-right: 2px;
 }
+
+#logo img {
+  float: left;
+}
+
+#logo h1 {
+  padding-left: 50px;
+  font-family: 'Yellowtail', cursive;
+  font-size: 2.4em;
+}
