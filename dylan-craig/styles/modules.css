@@ -1,4 +1,10 @@
 
-input {
-  font-family: 'Patrick Hand', cursive;
+
+nav ul {
+  float: right;
+}
+
+nav li {
+  float: left;
+  padding-right: 2px;
 }
